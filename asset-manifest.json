@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/italy-covid-stats/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/italy-covid-stats/static/js/main.431549c9.chunk.js",
-    "main.js.map": "/italy-covid-stats/static/js/main.431549c9.chunk.js.map",
-    "runtime-main.js": "/italy-covid-stats/static/js/runtime-main.7769e845.js",
-    "runtime-main.js.map": "/italy-covid-stats/static/js/runtime-main.7769e845.js.map",
-    "static/js/2.451eacac.chunk.js": "/italy-covid-stats/static/js/2.451eacac.chunk.js",
-    "static/js/2.451eacac.chunk.js.map": "/italy-covid-stats/static/js/2.451eacac.chunk.js.map",
-    "static/js/3.bb753827.chunk.js": "/italy-covid-stats/static/js/3.bb753827.chunk.js",
-    "static/js/3.bb753827.chunk.js.map": "/italy-covid-stats/static/js/3.bb753827.chunk.js.map",
+    "main.css": "/italy-covid-stats/static/css/main.8d2d41fe.chunk.css",
+    "main.js": "/italy-covid-stats/static/js/main.e34e09d4.chunk.js",
+    "main.js.map": "/italy-covid-stats/static/js/main.e34e09d4.chunk.js.map",
+    "runtime-main.js": "/italy-covid-stats/static/js/runtime-main.cedb17d9.js",
+    "runtime-main.js.map": "/italy-covid-stats/static/js/runtime-main.cedb17d9.js.map",
+    "static/js/2.d75dfaf9.chunk.js": "/italy-covid-stats/static/js/2.d75dfaf9.chunk.js",
+    "static/js/2.d75dfaf9.chunk.js.map": "/italy-covid-stats/static/js/2.d75dfaf9.chunk.js.map",
+    "static/js/3.1ebcbb09.chunk.js": "/italy-covid-stats/static/js/3.1ebcbb09.chunk.js",
+    "static/js/3.1ebcbb09.chunk.js.map": "/italy-covid-stats/static/js/3.1ebcbb09.chunk.js.map",
     "index.html": "/italy-covid-stats/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/italy-covid-stats/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.451eacac.chunk.js.LICENSE.txt": "/italy-covid-stats/static/js/2.451eacac.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/italy-covid-stats/static/media/logo.6ce24c58.svg"
+    "static/css/main.8d2d41fe.chunk.css.map": "/italy-covid-stats/static/css/main.8d2d41fe.chunk.css.map",
+    "static/js/2.d75dfaf9.chunk.js.LICENSE.txt": "/italy-covid-stats/static/js/2.d75dfaf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7769e845.js",
-    "static/js/2.451eacac.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.431549c9.chunk.js"
+    "static/js/runtime-main.cedb17d9.js",
+    "static/js/2.d75dfaf9.chunk.js",
+    "static/css/main.8d2d41fe.chunk.css",
+    "static/js/main.e34e09d4.chunk.js"
   ]
 }
