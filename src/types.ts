@@ -28,3 +28,12 @@ export interface NationalData {
     totale_positivi_test_antigenico_rapido: number | null
     tamponi_test_molecolare: number | null
 }
+
+export interface RegionalData extends NationalData {
+    codice_regione: number
+    denominazione_regione: string
+    lat: number
+    long: number
+    codice_nuts_1: string | null
+    codice_nuts_2: string | null
+}

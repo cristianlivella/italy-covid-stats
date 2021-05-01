@@ -9,9 +9,10 @@ interface Props {
 }
 
 const InfoBox = (props: Props) => {
-    const { newCases, recovered, deaths, day } = props;
+    const { label, newCases, recovered, deaths, day } = props;
     return (
         <Container>
+            <Title>{label}</Title>
             <Value size='big'>{newCases}</Value>
             <Label size='big'>nuovi casi</Label>
             <FlexContainer>
@@ -37,6 +38,12 @@ const Container = styled.div`
     background-color: #fcfcfc;
     padding: 16px;
     box-shadow: rgba(0, 0, 0, 0.90) 0px 1px 2px, rgba(0, 0, 0, 0.90) 0px 2px 4px, rgba(0, 0, 0, 0.90) 0px 4px 8px, rgba(0, 0, 0, 0.90) 0px 8px 16px, rgba(0, 0, 0, 0.90) 0px 16px 32px, rgba(0, 0, 0, 0.90) 0px 32px 64px;
+`
+
+const Title = styled.div`
+    font-size: 28pt;
+    margin-bottom: 8px;
+    font-weight: bold;
 `
 
 const Value = styled.div<{ size ?: string}>`
