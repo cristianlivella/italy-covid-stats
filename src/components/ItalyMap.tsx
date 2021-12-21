@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Region } from '../types';
 import geojson from '../geojson/regions_italy.json';
 
-const colors = { rossa: '#dd222a', arancione: '#e78314', gialla: '#f8c300', bianca: '#f7f7f7', error: '#000000' }
+const colors = { rossa: '#dd222a', arancione: '#e78314', gialla: '#f8c300', bianca: '#f7f7f7', white: '#ffffff' }
 
 interface Props {
     regionColors: Region[],
@@ -28,7 +28,7 @@ const ItalyMap = (props: Props) => {
                             const regionInfo = regionColors.find((region: Region) => {
                                 return region.name === geo.properties.reg_name;
                             });
-                            const color = regionInfo ? regionInfo['color'] : 'error';
+                            const color = regionInfo ? regionInfo['color'] : 'white';
                             return (
                                 <Geography
                                     key={geo.rsmKey}
