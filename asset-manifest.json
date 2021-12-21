@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/italy-covid-stats/static/css/main.8d2d41fe.chunk.css",
-    "main.js": "/italy-covid-stats/static/js/main.b13907d4.chunk.js",
-    "main.js.map": "/italy-covid-stats/static/js/main.b13907d4.chunk.js.map",
+    "main.js": "/italy-covid-stats/static/js/main.3faa0eb4.chunk.js",
+    "main.js.map": "/italy-covid-stats/static/js/main.3faa0eb4.chunk.js.map",
     "runtime-main.js": "/italy-covid-stats/static/js/runtime-main.88178f47.js",
     "runtime-main.js.map": "/italy-covid-stats/static/js/runtime-main.88178f47.js.map",
     "static/js/2.197ebd66.chunk.js": "/italy-covid-stats/static/js/2.197ebd66.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.88178f47.js",
     "static/js/2.197ebd66.chunk.js",
     "static/css/main.8d2d41fe.chunk.css",
-    "static/js/main.b13907d4.chunk.js"
+    "static/js/main.3faa0eb4.chunk.js"
   ]
 }
